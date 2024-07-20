@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Christy-Daher
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Computer 
